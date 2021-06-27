@@ -5,14 +5,17 @@
 
 .join-our-discord {
     width: 100%; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: purple;
+    color: white;
+    margin-bottom: 50%; 
+    font-size: medium;
 }
 
 .navbar-nav > li {
     padding-left:30px;
     padding-right:30px;
-}
-
-.indented-span {
-    display: table; margin: 0 auto;
 }
